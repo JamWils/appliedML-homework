@@ -1,0 +1,68 @@
+{
+    "Books": {
+        "9780141439518": {
+            "id": "9780141439518",
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "type": "book",
+            "total_copies": 3,
+            "borrowed_copies": 1
+        },
+        "9780451524935": {
+            "id": "9780451524935",
+            "title": "1984",
+            "author": "George Orwell",
+            "type": "book",
+            "total_copies": 5,
+            "borrowed_copies": 5
+        },
+        "9780743273565": {
+            "id": "9780743273565",
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "type": "book",
+            "total_copies": 4,
+            "borrowed_copies": 2
+        },
+        "9780061120084": {
+            "id": "9780061120084",
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "type": "book",
+            "total_copies": 6,
+            "borrowed_copies": 0
+        },
+        "9780316769488": {
+            "id": "9780316769488",
+            "title": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "type": "book",
+            "total_copies": 2,
+            "borrowed_copies": 2
+        },
+        "9780140283334": {
+            "id": "9780140283334",
+            "title": "Lord of the Flies",
+            "author": "William Golding",
+            "type": "book",
+            "total_copies": 3,
+            "borrowed_copies": 1
+        },
+        "9780679720201": {
+            "id": "9780679720201",
+            "title": "Brave New World",
+            "author": "Aldous Huxley",
+            "type": "book",
+            "total_copies": 4,
+            "borrowed_copies": 0
+        },
+        "9780142437209": {
+            "id": "9780142437209",
+            "title": "Moby Dick",
+            "author": "Herman Melville",
+            "type": "book",
+            "total_copies": 2,
+            "borrowed_copies": 1
+        }
+    }
+}
